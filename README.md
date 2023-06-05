@@ -1,2 +1,3 @@
 # MARA
-Demystifying Manufacturer-provided Remote Attestation Frameworks on Android
+On the (In)Feasibility of Manufacturer-provided Remote Attestation Frameworks in Android
+
